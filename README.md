@@ -32,7 +32,7 @@ This is why we built **Ochre**. Developers can:
 
 > Instead of stitching tools together, Ochre treats the editor itself as the collaboration layer.
 
----
+</br>
 
 ## Principles
 
