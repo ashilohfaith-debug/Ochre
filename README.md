@@ -2,7 +2,7 @@
     
 # **ochre.**
 
-**build software without friction**
+*build software without friction*
 
 </div>
 
