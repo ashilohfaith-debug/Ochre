@@ -43,22 +43,6 @@ This is why we built **Ochre**. Now, developers can:
 - **R**eason:  intelligence that understands context
 - **E**ngineer:  every build, engineered for production
 
-**The current workflow:**
-
-```
-VS Code → GitHub → Slack → AI Chat → Documentation → Terminal → back to VS Code
-```
-
-**The Ochre workflow:**
-
-```
-Code → Collaborate → Reason → Build → Ship
-```
-
-All inside one workspace — no context-switching, no waiting on commits and pulls to see a teammate's changes, no losing track of who did what.
-
----
-
 ## Features
 
 | Feature | Description |
