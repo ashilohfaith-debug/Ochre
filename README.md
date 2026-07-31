@@ -22,7 +22,7 @@ Built for the **ShePreneur Startup Bootcamp 2026**.
 
 ## Overview
 
-Software development today is fragmented. A single feature often requires switching between a code editor, GitHub, an AI assistant, a messaging app, and other tools — and none of them share context with each other.
+Software development today is fragmented. Building a single feature often requires switching between a code editor, GitHub, an AI assistant, a messaging app, and other tools — and none of them share context with each other.
 
 This is why we built **Ochre**. Now, developers can:
 
