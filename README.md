@@ -8,7 +8,7 @@
 
 </br>
 
-An AI-native collaborative software development workspace that unifies real-time coding, intelligent assistance, and continuous version history into a single platform.
+A collaborative software development workspace that unifies real-time coding, intelligent assistance, and continuous version history into a single platform.
 
 </br>
 
