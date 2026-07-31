@@ -18,8 +18,6 @@ Built for the **ShePreneur Startup Bootcamp 2026**.
 
 </div>
 
----
-
 ## Overview
 
 Software development today is fragmented. A single feature often requires switching between a code editor, GitHub, an AI assistant, a messaging app, and separate documentation tools — and none of them share context with each other.
