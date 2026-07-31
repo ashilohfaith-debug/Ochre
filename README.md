@@ -14,7 +14,7 @@ A collaborative software development workspace that unifies real-time coding, in
 
 Built for the **ShePreneur Startup Bootcamp 2026**.
 
-[Overview](#overview) · [Principles](#why-ochre)  · [Features](#features) · [Architecture](#architecture) · [Tech Stack](#tech-stack) · [Getting Started](#getting-started)  · [Prerequisites](#prerequisites) · [Installation](#installation) · [Environment Variables](#environment-variables) · [Project Structure](#project-structure) · [Roadmap](#roadmap) · [Upcoming Features](#upcoming-features)
+[Overview](#overview) · [Principle](#why-ochre)  · [Features](#features) · [Architecture](#architecture) · [Tech Stack](#tech-stack) · [Getting Started](#getting-started)  · [Prerequisites](#prerequisites) · [Installation](#installation) · [Environment Variables](#environment-variables) · [Project Structure](#project-structure) · [Roadmap](#roadmap) · [Upcoming Features](#upcoming-features)
 
 </div>
 
@@ -35,13 +35,13 @@ This is why we built **Ochre**. Now, developers can:
 
 </br>
 
-## Principles
+## Principle
 
-- **O**rchestrate
-- **C**ollaborate
-- **H**armonise
-- **R**eason
-- **E**ngineer
+- **O**rchestrate: One workspace for every workflow
+- **C**ollaborate: Teams stay in sync every step of the way
+- **H**armonise: Every tool works as one
+- **R**eason: Intelligence that understands context
+- **E**ngineer: Every build, engineered for production
 
 **The current workflow:**
 
