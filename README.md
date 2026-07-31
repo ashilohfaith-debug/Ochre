@@ -1,5 +1,9 @@
 <div align="center">
-# ochre.
+    
+# **ochre.**
+
+**build software without friction**
+
 </div>
 
 # 🎨 OCHRE
