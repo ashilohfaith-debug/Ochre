@@ -14,7 +14,7 @@ A collaborative software development workspace that unifies real-time coding, in
 
 Built for the **ShePreneur Startup Bootcamp 2026**.
 
-[Overview](#overview) · [Principle](#why-ochre)  · [Features](#features) · [Architecture](#architecture) · [Tech Stack](#tech-stack) · [Getting Started](#getting-started)  · [Prerequisites](#prerequisites) · [Installation](#installation) · [Environment Variables](#environment-variables) · [Project Structure](#project-structure) · [Roadmap](#roadmap) · [Upcoming Features](#upcoming-features)
+[Overview](#overview) · [Principle](#principle)  · [Features](#features) · [Architecture](#architecture) · [Tech Stack](#tech-stack) · [Getting Started](#getting-started)  · [Prerequisites](#prerequisites) · [Installation](#installation) · [Environment Variables](#environment-variables) · [Project Structure](#project-structure) · [Roadmap](#roadmap) · [Upcoming Features](#upcoming-features)
 
 </div>
 
