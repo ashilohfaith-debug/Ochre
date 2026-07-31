@@ -38,6 +38,12 @@ Software development today is fragmented. A single feature often requires switch
 
 ## Principles
 
+- Orchestrate
+- Collaborate
+- Harmonise
+- Reason
+- Engineer
+
 **The current workflow:**
 
 ```
