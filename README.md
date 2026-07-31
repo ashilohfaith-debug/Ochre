@@ -36,11 +36,11 @@ This is why we built **Ochre**. Now, developers can:
 
 ## Principles
 
-- Orchestrate
-- Collaborate
-- Harmonise
-- Reason
-- Engineer
+- **O**rchestrate
+- **C**ollaborate
+- **H**armonise
+- **R**eason
+- **E**ngineer
 
 **The current workflow:**
 
