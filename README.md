@@ -36,8 +36,6 @@ Software development today is fragmented. A single feature often requires switch
 
 ---
 
-## Why Ochre
-
 **The current workflow:**
 
 ```
