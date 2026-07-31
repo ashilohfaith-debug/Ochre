@@ -24,13 +24,11 @@ Built for the **ShePreneur Startup Bootcamp 2026**.
 
 Software development today is fragmented. A single feature often requires switching between a code editor, GitHub, an AI assistant, a messaging app, and other tools — and none of them share context with each other.
 
-**Ochre** is an AI-powered collaborative development platform that brings all of it into one workspace. Developers can:
+This is why we built **Ochre**. Developers can:
 
 - Collaborate in real time, in the same file, at the same time
-- Get intelligent AI assistance without leaving the editor
 - See teammates' cursors, selections, and active files live
 - Restore any previous version instantly
-- Stay synchronized throughout the entire development lifecycle
 
 > Instead of stitching tools together, Ochre treats the editor itself as the collaboration layer.
 
