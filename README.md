@@ -1,24 +1,20 @@
 <div align="center">
-    
+
+<img width="350" height="250" alt="ochre on black" src="https://github.com/user-attachments/assets/8213820a-86e2-45c0-8138-0ee25aa5e963" />
+
 # **ochre.**
 
 *build software without friction*
 
 <div align="center">
 
-# 🎨 Ochre
-
-### Build software without collaboration friction.
+</br>
 
 An AI-native collaborative software development workspace that unifies real-time coding, intelligent assistance, and continuous version history into a single platform.
 
-Built for the **ShePreneur Startup Bootcamp 2026**.
+</br>
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#license)
-[![Status](https://img.shields.io/badge/status-MVP%20in%20progress-orange)](#roadmap)
-[![Made with React](https://img.shields.io/badge/frontend-React%20%2B%20TypeScript-61DAFB?logo=react&logoColor=white)](#tech-stack)
-[![Node.js](https://img.shields.io/badge/backend-Node.js%20%2B%20Express-339933?logo=node.js&logoColor=white)](#tech-stack)
-[![PostgreSQL](https://img.shields.io/badge/database-PostgreSQL-4169E1?logo=postgresql&logoColor=white)](#tech-stack)
+Built for the **ShePreneur Startup Bootcamp 2026**.
 
 [Demo Video](#) · [Live Site](#) · [Report a Bug](#) · [Request a Feature](#)
 
