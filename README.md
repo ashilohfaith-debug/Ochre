@@ -218,12 +218,6 @@ Built as part of the **ShePreneur Startup Bootcamp 2026**, with the vision of el
 
 ---
 
-## License
-
-Distributed under the **MIT License**. See `LICENSE` for more information.
-
----
-
 <div align="center">
 
 **Ochre — build software without collaboration friction.**
