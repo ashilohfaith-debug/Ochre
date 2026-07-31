@@ -37,11 +37,11 @@ This is why we built **Ochre**. Now, developers can:
 
 ## Principle
 
-- **O**rchestrate: One workspace for every workflow
-- **C**ollaborate: Teams stay in sync every step of the way
-- **H**armonise: Every tool works as one
-- **R**eason: Intelligence that understands context
-- **E**ngineer: Every build, engineered for production
+- **O**rchestrate:  one workspace for every workflow
+- **C**ollaborate:  teams stay in sync every step of the way
+- **H**armonise:  every tool works as one
+- **R**eason:  intelligence that understands context
+- **E**ngineer:  every build, engineered for production
 
 **The current workflow:**
 
