@@ -26,8 +26,8 @@ Software development today is fragmented. Building a single feature often requir
 
 This is why we built **Ochre**. Now, developers can:
 
-- Collaborate in real time, in the same file, at the same time
-- See teammates' cursors, selections, and active files live
+- Collaborate in the same file, at the same time
+- See teammates' cursors, selections and updates
 - Restore any previous version instantly
 
 > Instead of stitching tools together, Ochre treats the editor itself as the collaboration layer.
