@@ -4,234 +4,145 @@
 
 *build software without friction*
 
-</div>
+<div align="center">
 
-# 🎨 OCHRE
+# 🎨 Ochre
 
-> **Build software without collaboration friction.**
+### Build software without collaboration friction.
 
-An AI-native collaborative software development workspace that brings real-time coding, intelligent assistance, and continuous version history into one unified platform.
+An AI-native collaborative software development workspace that unifies real-time coding, intelligent assistance, and continuous version history into a single platform.
 
 Built for the **ShePreneur Startup Bootcamp 2026**.
 
----
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#license)
+[![Status](https://img.shields.io/badge/status-MVP%20in%20progress-orange)](#roadmap)
+[![Made with React](https://img.shields.io/badge/frontend-React%20%2B%20TypeScript-61DAFB?logo=react&logoColor=white)](#tech-stack)
+[![Node.js](https://img.shields.io/badge/backend-Node.js%20%2B%20Express-339933?logo=node.js&logoColor=white)](#tech-stack)
+[![PostgreSQL](https://img.shields.io/badge/database-PostgreSQL-4169E1?logo=postgresql&logoColor=white)](#tech-stack)
 
-## 🌐 Live Demo
+[Demo Video](#) · [Live Site](#) · [Report a Bug](#) · [Request a Feature](#)
 
-Demo Video: <demo-link>
-
-Website: <website-link>
-
----
-
-## What • Architecture • Features • Run it • Tech Stack • Roadmap
+</div>
 
 ---
 
-Software development today is fragmented.
+## Table of Contents
 
-Developers constantly switch between code editors, GitHub, AI assistants, communication tools, and documentation just to build a single feature.
+- [Overview](#overview)
+- [Why Ochre](#why-ochre)
+- [Features](#features)
+- [Architecture](#architecture)
+- [Tech Stack](#tech-stack)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Environment Variables](#environment-variables)
+- [Project Structure](#project-structure)
+- [Roadmap](#roadmap)
+- [Contributing](#contributing)
+- [Team](#team)
+- [License](#license)
 
-Ochre brings everything into one intelligent workspace.
+---
+
+## Overview
+
+Software development today is fragmented. A single feature often requires switching between a code editor, GitHub, an AI assistant, a messaging app, and separate documentation tools — and none of them share context with each other.
+
+**Ochre** is an AI-powered collaborative development platform that brings all of it into one workspace. Developers can:
+
+- Collaborate in real time, in the same file, at the same time
+- Get intelligent AI assistance without leaving the editor
+- See teammates' cursors, selections, and active files live
+- Restore any previous version instantly
+- Stay synchronized throughout the entire development lifecycle
+
+> Instead of stitching tools together, Ochre treats the editor itself as the collaboration layer.
+
+---
+
+## Why Ochre
+
+**The current workflow:**
 
 ```
-┌──────────────────────────────────────────────┐
-│     AI-native Collaborative Workspace        │
-├──────────────────────────────────────────────┤
-│                                              │
-│   Real-Time Coding                           │
-│          ↓                                   │
-│   AI Assistance                              │
-│          ↓                                   │
-│   Continuous Version History                 │
-│          ↓                                   │
-│   Team Collaboration                         │
-│          ↓                                   │
-│   Ship Better Software                       │
-│                                              │
-└──────────────────────────────────────────────┘
+VS Code → GitHub → Slack → AI Chat → Documentation → Terminal → back to VS Code
 ```
 
----
-
-# What is Ochre?
-
-Ochre is an AI-powered collaborative software development platform built for modern engineering teams.
-
-Instead of switching between multiple tools during development, Ochre combines everything into one workspace.
-
-Developers can:
-
-- Collaborate in real time
-- Receive intelligent AI assistance
-- View teammate cursors
-- Restore previous versions instantly
-- Stay synchronized throughout the development lifecycle
-
----
-
-# Architecture
+**The Ochre workflow:**
 
 ```
-Browser
-    │
-    ▼
-React + Monaco Editor
-    │
-WebSocket Server
-    │
-    ▼
-Yjs CRDT Engine
-    │
-    ▼
-Node.js Backend
-    │
- ┌──────────────┬──────────────┐
- │              │              │
- ▼              ▼              ▼
-AI Models   PostgreSQL     Version History
-(HuggingFace /
-Claude)
+Code → Collaborate → Reason → Build → Ship
 ```
 
----
-
-# Features
-
-## 👥 Real-Time Collaboration
-
-Multiple developers can edit the same project simultaneously.
-
-Live cursors.
-
-Live selections.
-
-Instant synchronization.
+All inside one workspace — no context-switching, no waiting on commits and pulls to see a teammate's changes, no losing track of who did what.
 
 ---
 
-## 🤖 AI Pair Programmer
+## Features
 
-Integrated AI assists developers with:
-
-- Code generation
-- Debugging
-- Refactoring
-- Code explanations
-- Documentation
-- Architecture guidance
-
-Future support includes Hugging Face models, Claude, and other frontier AI systems.
+| Feature | Description |
+|---|---|
+| 👥 **Real-Time Collaboration** | Multiple developers edit the same project simultaneously, with live cursors, live selections, and instant sync. |
+| 🤖 **AI Pair Programmer** | Built-in AI assists with code generation, debugging, refactoring, code explanations, documentation, and architecture guidance. |
+| 📝 **Continuous Version History** | Every change is preserved automatically — restore previous versions, compare edits, and track project evolution without relying solely on commits. |
+| ⚡ **Live Developer Presence** | See who's online, where they're editing, and what files they're working on, without interrupting anyone's flow. |
+| 📁 **Unified Workspace** | Code, AI, collaboration, history, and project management all live in a single place. |
 
 ---
 
-## 📝 Continuous Version History
+## Architecture
 
-Every change is automatically preserved.
-
-Restore previous versions.
-
-Compare edits.
-
-Track project evolution.
-
----
-
-## ⚡ Live Developer Presence
-
-See:
-
-- who's online
-- where they're editing
-- what files they're working on
-
-without interrupting their workflow.
-
----
-
-## 📁 Unified Workspace
-
-Everything developers need lives in one place.
-
-Code.
-
-AI.
-
-Collaboration.
-
-History.
-
-Projects.
-
----
-
-# Why Ochre?
-
-Today's software workflow looks like this:
-
-VS Code
-
-↓
-
-GitHub
-
-↓
-
-Slack
-
-↓
-
-AI Chat
-
-↓
-
-Documentation
-
-↓
-
-Terminal
-
-↓
-
-Back to VS Code
-
-Ochre turns that into:
-
-```
-Code
-
-↓
-
-Collaborate
-
-↓
-
-Reason
-
-↓
-
-Build
-
-↓
-
-Ship
+```mermaid
+flowchart TD
+    A[Browser] --> B["React + Monaco Editor"]
+    B --> C[WebSocket Server]
+    C --> D[Yjs CRDT Engine]
+    D --> E[Node.js Backend]
+    E --> F["AI Models (Hugging Face / Claude)"]
+    E --> G[(PostgreSQL)]
+    E --> H[Version History]
 ```
 
-All inside one workspace.
+Real-time sync is powered by **Yjs**, a CRDT (Conflict-free Replicated Data Type) engine, so concurrent edits merge automatically without manual conflict resolution. The Node.js backend coordinates AI requests, persistence, and version history alongside the live collaboration layer.
 
 ---
 
-# Running Locally
+## Tech Stack
 
-## Clone Repository
+| Layer | Technology |
+|---|---|
+| Frontend | React + TypeScript |
+| Editor | Monaco Editor |
+| Styling | Tailwind CSS |
+| Backend | Node.js + Express |
+| Real-time collaboration | WebSockets + Yjs (CRDT) |
+| Database | PostgreSQL |
+| ORM | Prisma |
+| Authentication | Clerk / Auth.js |
+| AI | Hugging Face + Claude |
+| Deployment | Vercel (frontend) + Railway (backend) |
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) v18 or later
+- [npm](https://www.npmjs.com/)
+- A [PostgreSQL](https://www.postgresql.org/) instance (local or hosted)
+
+### Installation
+
+**1. Clone the repository**
 
 ```bash
 git clone https://github.com/yourusername/ochre.git
+cd ochre
 ```
 
----
-
-## Install Frontend
+**2. Install and run the frontend**
 
 ```bash
 cd client
@@ -239,9 +150,7 @@ npm install
 npm run dev
 ```
 
----
-
-## Install Backend
+**3. Install and run the backend**
 
 ```bash
 cd server
@@ -249,106 +158,99 @@ npm install
 npm run dev
 ```
 
----
+The client will be available at `http://localhost:5173` (or whichever port Vite assigns) and the server at the port configured in your backend `.env`.
 
-## Environment Variables
+### Environment Variables
+
+Create a `.env` file in the `server` directory with the following:
 
 ```env
+# Database
 DATABASE_URL=
+POSTGRES_URL=
 
+# Auth
 JWT_SECRET=
 
+# AI providers
 OPENAI_API_KEY=
-
 HUGGINGFACE_API_KEY=
-
 ANTHROPIC_API_KEY=
+```
 
-POSTGRES_URL=
+> ⚠️ Never commit your `.env` file. Add it to `.gitignore` and share required keys with collaborators securely.
+
+---
+
+## Project Structure
+
+```
+ochre/
+├── client/          # React + TypeScript frontend, Monaco Editor integration
+├── server/          # Node.js + Express backend, WebSocket + Yjs sync server
+├── prisma/          # Database schema and migrations
+└── README.md
 ```
 
 ---
 
-# Tech Stack
-
-| Layer | Technology |
-|---------|------------|
-| Frontend | React + TypeScript |
-| Editor | Monaco Editor |
-| Styling | Tailwind CSS |
-| Backend | Node.js + Express |
-| Collaboration | WebSockets + Yjs (CRDT) |
-| Database | PostgreSQL |
-| ORM | Prisma |
-| Authentication | Clerk / Auth.js |
-| AI | Hugging Face + Claude |
-| Deployment | Vercel + Railway |
-
----
-
-# Roadmap
+## Roadmap
 
 ### ✅ MVP
-
-- Monaco Editor
-- Multi-user editing
-- Live cursors
-- Authentication
-- Version history
-- AI Chat
-
----
+- [x] Monaco Editor integration
+- [x] Multi-user real-time editing
+- [x] Live cursors
+- [x] Authentication
+- [x] Version history
+- [x] AI chat assistant
 
 ### 🚀 Phase 2
-
-- AI code review
-- Voice collaboration
-- File comments
-- Git integration
-- Terminal sharing
-
----
+- [ ] AI-powered code review
+- [ ] Voice collaboration
+- [ ] Inline file comments
+- [ ] Git integration
+- [ ] Shared terminal sessions
 
 ### 🌍 Phase 3
-
-- Enterprise workspaces
-- AI project memory
-- Team analytics
-- Plugin marketplace
-- Mobile companion
-
----
-
-# Vision
-
-We believe the future of software development isn't about adding more tools.
-
-It's about bringing everything developers need into one intelligent workspace.
+- [ ] Enterprise workspaces
+- [ ] AI project memory
+- [ ] Team analytics dashboard
+- [ ] Plugin marketplace
+- [ ] Mobile companion app
 
 ---
 
-# Built With ❤️
+## Contributing
 
-Ochre was built as part of the **ShePreneur Startup Bootcamp 2026**, with the vision of reducing collaboration friction and redefining how modern software teams build together.
+Contributions, issues, and feature requests are welcome.
+
+1. Fork the project
+2. Create your feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add some amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
 
 ---
 
 ## Team
 
-**Shiloh Faith**
+Built as part of the **ShePreneur Startup Bootcamp 2026**, with the vision of eliminating collaboration friction and redefining how modern software teams build together.
 
-Frontend • AI Integration • Product Design
-
-**Swetha Rajesh**
-
-Backend • Collaboration • Infrastructure
-
----
-
-# License
-
-MIT License
+| Name | Role |
+|---|---|
+| **Shiloh Faith** | Frontend · AI Integration · Product Design |
+| **Swetha Rajesh** | Backend · Real-time Collaboration · Infrastructure |
 
 ---
 
-> **Build software without collaboration friction.**
+## License
+
+Distributed under the **MIT License**. See `LICENSE` for more information.
+
+---
+
+<div align="center">
+
+**Ochre — build software without collaboration friction.**
+
+</div>
