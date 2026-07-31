@@ -29,6 +29,7 @@ This is why we built **Ochre**. Now, developers can:
 - Collaborate in the same file, at the same time
 - See teammates' cursors, selections and updates
 - Restore any previous version instantly
+- Search through their code quickly
 
 > Instead of stitching tools together, Ochre treats the editor itself as the collaboration layer.
 
