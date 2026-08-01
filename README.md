@@ -26,10 +26,10 @@ Software development today is fragmented. Building a single feature often requir
 
 This is why we built **Ochre**. Now, developers can:
 
-- Collaborate in the same file, at the same time
-- See teammates' cursors, selections and updates
-- Restore any previous version instantly
-- Search through their code quickly
+-    Collaborate in the same file, at the same time
+-    See teammates' cursors, selections and updates
+-    Restore any previous version instantly
+-    Search through their code quickly
 
 > Instead of stitching tools together, Ochre treats the editor itself as the collaboration layer.
 
@@ -42,18 +42,6 @@ This is why we built **Ochre**. Now, developers can:
 - **H**armonise:  every tool works as one
 - **R**eason:  intelligence that understands context
 - **E**ngineer:  every build, engineered for production
-
-## Features
-
-| Feature | Description |
-|---|---|
-| 👥 **Real-Time Collaboration** | Multiple developers edit the same project simultaneously, with live cursors, live selections, and instant sync. |
-| 🤖 **AI Pair Programmer** | Built-in AI assists with code generation, debugging, refactoring, code explanations, documentation, and architecture guidance. |
-| 📝 **Continuous Version History** | Every change is preserved automatically — restore previous versions, compare edits, and track project evolution without relying solely on commits. |
-| ⚡ **Live Developer Presence** | See who's online, where they're editing, and what files they're working on, without interrupting anyone's flow. |
-| 📁 **Unified Workspace** | Code, AI, collaboration, history, and project management all live in a single place. |
-
----
 
 ## Architecture
 
@@ -69,6 +57,18 @@ flowchart TD
 ```
 
 Real-time sync is powered by **Yjs**, a CRDT (Conflict-free Replicated Data Type) engine, so concurrent edits merge automatically without manual conflict resolution. The Node.js backend coordinates AI requests, persistence, and version history alongside the live collaboration layer.
+
+---
+
+## Features
+
+| Feature | Description |
+|---|---|
+| 👥 **Real-Time Collaboration** | Multiple developers edit the same project simultaneously, with live cursors, live selections, and instant sync. |
+| 🤖 **AI Pair Programmer** | Built-in AI assists with code generation, debugging, refactoring, code explanations, documentation, and architecture guidance. |
+| 📝 **Continuous Version History** | Every change is preserved automatically — restore previous versions, compare edits, and track project evolution without relying solely on commits. |
+| ⚡ **Live Developer Presence** | See who's online, where they're editing, and what files they're working on, without interrupting anyone's flow. |
+| 📁 **Unified Workspace** | Code, AI, collaboration, history, and project management all live in a single place. |
 
 ---
 
@@ -124,27 +124,6 @@ npm run dev
 
 The client will be available at `http://localhost:5173` (or whichever port Vite assigns) and the server at the port configured in your backend `.env`.
 
-### Environment Variables
-
-Create a `.env` file in the `server` directory with the following:
-
-```env
-# Database
-DATABASE_URL=
-POSTGRES_URL=
-
-# Auth
-JWT_SECRET=
-
-# AI providers
-OPENAI_API_KEY=
-HUGGINGFACE_API_KEY=
-ANTHROPIC_API_KEY=
-```
-
-> ⚠️ Never commit your `.env` file. Add it to `.gitignore` and share required keys with collaborators securely.
-
----
 
 ## Project Structure
 
@@ -182,33 +161,6 @@ ochre/
 - [ ] Plugin marketplace
 - [ ] Mobile companion app
 
----
+</br>
 
-## Contributing
-
-Contributions, issues, and feature requests are welcome.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
----
-
-## Team
-
-Built as part of the **ShePreneur Startup Bootcamp 2026**, with the vision of eliminating collaboration friction and redefining how modern software teams build together.
-
-| Name | Role |
-|---|---|
-| **Shiloh Faith** | Frontend · AI Integration · Product Design |
-| **Swetha Rajesh** | Backend · Real-time Collaboration · Infrastructure |
-
----
-
-<div align="center">
-
-**Ochre — build software without collaboration friction.**
-
-</div>
+*Built with by ❤️ team PromptShop.*
