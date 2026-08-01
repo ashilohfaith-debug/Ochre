@@ -162,4 +162,4 @@ ochre/
 
 </br>
 
-*Built with by ❤️ team PromptShop.*
+*Built with ❤️ by team PromptShop.*
