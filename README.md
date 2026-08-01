@@ -59,11 +59,11 @@ This is why we built **Ochre**. Now, developers can:
 
 ```mermaid
 flowchart TD
-    A[Browser] --> B["React + Monaco Editor"]
+    A[Browser] --> B["Monaco Editor"]
     B --> C[WebSocket Server]
     C --> D[Yjs CRDT Engine]
     D --> E[Node.js Backend]
-    E --> F["AI Models (Hugging Face / Claude)"]
+    E --> F["AI Models (coming soon)"]
     E --> G[(PostgreSQL)]
     E --> H[Version History]
 ```
