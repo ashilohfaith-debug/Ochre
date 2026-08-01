@@ -26,10 +26,10 @@ Software development today is fragmented. Building a single feature often requir
 
 This is why we built **Ochre**. Now, developers can:
 
--    Collaborate in the same file, at the same time
--    See teammates' cursors, selections and updates
--    Restore any previous version instantly
--    Search through their code quickly
+-    write code at the same time
+-    see teammates' cursors, selections and updates
+-    restore any previous version instantly
+-    search through their code quickly
 
 > Instead of stitching tools together, Ochre treats the editor itself as the collaboration layer.
 
@@ -37,10 +37,10 @@ This is why we built **Ochre**. Now, developers can:
 
 ## Principle
 
-- **O**rchestrate:  one workspace for every workflow
-- **C**ollaborate:  teams stay in sync every step of the way
-- **H**armonise:  every tool works as one
-- **R**eason:  intelligence that understands context
+-  **O**rchestrate:  one workspace for every workflow
+-  **C**ollaborate:  teams stay in sync every step of the way
+-  **H**armonise:  every tool works as one
+-  **R**eason:  intelligence that understands context
 - **E**ngineer:  every build, engineered for production
 
 ## Architecture
