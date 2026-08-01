@@ -43,6 +43,8 @@ This is why we built **Ochre**. Now, developers can:
 -  **R**eason:  intelligence that understands context
 - **E**ngineer:  every build, engineered for production
 
+</br>
+
 ## Architecture
 
 ```mermaid
