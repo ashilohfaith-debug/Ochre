@@ -14,7 +14,7 @@ A collaborative software development workspace that unifies real-time coding, in
 
 Built for the **ShePreneur Startup Bootcamp 2026**.
 
-[Overview](#overview) · [Principles](#principles)  · [Features](#features) · [Architecture](#architecture) · [Tech Stack](#tech-stack) · [Getting Started](#getting-started)  · [Prerequisites](#prerequisites) · [Installation](#installation) · [Environment Variables](#environment-variables) · [Project Structure](#project-structure) · [Roadmap](#roadmap) · [Upcoming Features](#upcoming-features)
+[Overview](#overview) · [Principles](#principles) · [Architecture](#architecture) · [Features](#features) · [Tech Stack](#tech-stack) · [Upcoming Features](#upcoming-features)
 
 </div>
 
