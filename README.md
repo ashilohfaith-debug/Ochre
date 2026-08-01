@@ -80,10 +80,10 @@ Real-time sync is powered by **Yjs**, a CRDT (Conflict-free Replicated Data Type
 | Layer | Technology |
 |---|---|
 | Frontend | React 19 + TypeScript |
-| Editor | Monaco Editor |
 | Styling | Tailwind CSS |
-| Backend | Node.js + Express |
+| Editor | Monaco Editor |
 | Real-time Collaboration | WebSockets + Yjs (CRDT) |
+| Backend | Node.js + Express |
 | Database | PostgreSQL |
 | Authentication | Custom — pbkdf2 password hashing + base64 JWT |
 
