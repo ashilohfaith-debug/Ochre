@@ -14,7 +14,7 @@ A collaborative software development workspace that unifies real-time coding, in
 
 Built for the **ShePreneur Startup Bootcamp 2026**.
 
-[Overview](#overview) · [Principle](#principle)  · [Features](#features) · [Architecture](#architecture) · [Tech Stack](#tech-stack) · [Getting Started](#getting-started)  · [Prerequisites](#prerequisites) · [Installation](#installation) · [Environment Variables](#environment-variables) · [Project Structure](#project-structure) · [Roadmap](#roadmap) · [Upcoming Features](#upcoming-features)
+[Overview](#overview) · [Principles](#principles)  · [Features](#features) · [Architecture](#architecture) · [Tech Stack](#tech-stack) · [Getting Started](#getting-started)  · [Prerequisites](#prerequisites) · [Installation](#installation) · [Environment Variables](#environment-variables) · [Project Structure](#project-structure) · [Roadmap](#roadmap) · [Upcoming Features](#upcoming-features)
 
 </div>
 
@@ -35,7 +35,7 @@ This is why we built **Ochre**. Now, developers can:
 
 </br>
 
-## Principle
+## Principles
 
 -  **O**rchestrate:  one workspace for every workflow
 -  **C**ollaborate:  teams stay in sync every step of the way
@@ -58,7 +58,7 @@ flowchart TD
 
 Real-time sync is powered by **Yjs**, a CRDT (Conflict-free Replicated Data Type) engine, so concurrent edits merge automatically without manual conflict resolution. The Node.js backend coordinates AI requests, persistence, and version history alongside the live collaboration layer.
 
----
+</br>
 
 ## Features
 
@@ -70,7 +70,7 @@ Real-time sync is powered by **Yjs**, a CRDT (Conflict-free Replicated Data Type
 | ⚡ **Live Developer Presence** | See who's online, where they're editing, and what files they're working on, without interrupting anyone's flow. |
 | 📁 **Unified Workspace** | Code, AI, collaboration, history, and project management all live in a single place. |
 
----
+</br>
 
 ## Tech Stack
 
