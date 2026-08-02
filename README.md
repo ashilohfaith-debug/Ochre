@@ -6,11 +6,11 @@
 
 *build software without friction*
 
-</br>
+<br/>
 
 A collaborative software development workspace that unifies real-time coding, intelligent assistance, and continuous version history into a single platform.
 
-</br>
+<br/>
 
 Built for the **ShePreneur Startup Bootcamp 2026**.
 
@@ -18,7 +18,7 @@ Built for the **ShePreneur Startup Bootcamp 2026**.
 
 </div>
 
-</br>
+<br/>
 
 Click [here](https://www.youtube.com/watch?v=QoFjLHuWyBI) to watch the demo video.
 
@@ -35,7 +35,7 @@ This is why we built **Ochre**. Now, developers can:
 
 > Instead of stitching tools together, Ochre treats the editor itself as the collaboration layer.
 
-</br>
+<br/>
 
 ## Principles
 
@@ -45,7 +45,7 @@ This is why we built **Ochre**. Now, developers can:
 -  **R**eason:  intelligence that understands context
 - **E**ngineer:  every build, engineered for production
 
-</br>
+<br/>
 
 ## Architecture
 
@@ -60,11 +60,11 @@ flowchart TD
     E --> H[Version History]
 ```
 
-</br>
+<br/>
 
 Real-time sync is powered by **Yjs**, a CRDT (Conflict-free Replicated Data Type) engine, so concurrent edits merge automatically without manual conflict resolution.
 
-</br>
+<br/>
 
 ## Features
 
@@ -75,7 +75,7 @@ Real-time sync is powered by **Yjs**, a CRDT (Conflict-free Replicated Data Type
 | <img width="17" height="17" alt="live" src="https://github.com/user-attachments/assets/09462945-6f8b-49fd-ab72-9d52878f58db" /> Developer Presence | See who's online, where they're editing, and what files they're working on, without interrupting anyone's flow. |
 | <img width="20" height="20" alt="code" src="https://github.com/user-attachments/assets/4f63f320-6af6-4041-87cb-2044eb1893c6" /> One Workspace | Code, AI, collaboration, history, and project management — all live in a single workspace. |
 
-</br>
+<br/>
 
 ## Tech Stack
 
@@ -89,6 +89,6 @@ Real-time sync is powered by **Yjs**, a CRDT (Conflict-free Replicated Data Type
 | Database | PostgreSQL |
 | Authentication | Custom — pbkdf2 password hashing + base64 JWT |
 
-</br>
+<br/>
 
 *Built with ❤️ by team PromptShop.*
