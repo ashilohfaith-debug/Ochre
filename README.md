@@ -20,7 +20,7 @@ Built for the **ShePreneur Startup Bootcamp 2026**.
 
 </br>
 
-Demo Video: https://www.youtube.com/watch?v=QoFjLHuWyBI
+Click [here](https://www.youtube.com/watch?v=QoFjLHuWyBI) to watch the demo video.
 
 </br>
 
