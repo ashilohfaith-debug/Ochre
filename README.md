@@ -71,7 +71,7 @@ Real-time sync is powered by **Yjs**, a CRDT (Conflict-free Replicated Data Type
 | <img width="25" height="25" alt="collab" src="https://github.com/user-attachments/assets/b147fe71-9533-4b82-8971-12e02de2c036" /> Collaboration | Multiple developers edit the same project simultaneously and seamlessly. |
 | <img width="25" height="25" alt="backup" src="https://github.com/user-attachments/assets/a0a0b6a5-47a6-4061-a2cc-6a1387a47196" /> Version History | Every change is preserved automatically — users can restore previous versions, compare edits, and track project evolution. |
 | <img width="17" height="17" alt="live" src="https://github.com/user-attachments/assets/09462945-6f8b-49fd-ab72-9d52878f58db" /> Developer Presence | See who's online, where they're editing, and what files they're working on, without interrupting anyone's flow. |
-| <img width="20" height="20" alt="code" src="https://github.com/user-attachments/assets/4f63f320-6af6-4041-87cb-2044eb1893c6" /> One Workspace | Code, AI, collaboration, history, and project management all live in a single place. |
+| <img width="20" height="20" alt="code" src="https://github.com/user-attachments/assets/4f63f320-6af6-4041-87cb-2044eb1893c6" /> One Workspace | Code, AI, collaboration, history, and project management — all live in a single workspace. |
 
 </br>
 
