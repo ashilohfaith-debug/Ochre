@@ -26,7 +26,7 @@ Software development today is fragmented. Building a single feature often requir
 
 This is why we built **Ochre**. Now, developers can:
 
--    write code in the same editor at the same time
+-    write code in the same editor, at the same time
 -    see teammates' cursors, selections and updates
 -    restore any previous version instantly
 -    search through their code quickly
