@@ -91,4 +91,9 @@ Real-time sync is powered by **Yjs**, a CRDT (Conflict-free Replicated Data Type
 
 <br/>
 
+## Yet to be implemented
+- AI Assistance
+
+<br/>
+
 *Built with ❤️ by team PromptShop.*
