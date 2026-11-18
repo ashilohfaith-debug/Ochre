@@ -1,0 +1,367 @@
+{
+  "users": [
+    {
+      "id": "usr-1785337736328-s9fx0",
+      "username": "John",
+      "email": "john@gmail.com",
+      "password_hash": "0f7d4b522ba2640677f6ce61b00be5d992e2b895c8f53be467eeee27de0dced9f6572da0587c5ab9e589db77c7769651e3b0b3eccc797cf3e74b3f8af88499d0",
+      "color": "#22c55e",
+      "created_at": "2026-07-29T15:08:56.344Z"
+    },
+    {
+      "id": "usr-1785414422663-ddh7x",
+      "username": "Swetha",
+      "email": "swetha@gmail.com",
+      "password_hash": "dc4bda92ebc683bb349ea136064213e8d8044ccd6e9ecbab62325edf79ccadfda34e6eba1b09655dc75e240c84b572b704437e29e1ba9670552ca2234fac4ced",
+      "color": "#a855f7",
+      "created_at": "2026-07-30T12:27:02.671Z"
+    },
+    {
+      "id": "usr-1785417897968-nzdgp",
+      "username": "Shiloh",
+      "email": "shilohfaith@gmail.com",
+      "password_hash": "dc4bda92ebc683bb349ea136064213e8d8044ccd6e9ecbab62325edf79ccadfda34e6eba1b09655dc75e240c84b572b704437e29e1ba9670552ca2234fac4ced",
+      "color": "#ec4899",
+      "created_at": "2026-07-30T13:24:57.981Z"
+    },
+    {
+      "id": "usr-1785421814334-zw9i8",
+      "username": "SwethaR",
+      "email": "swethar@gmail.com",
+      "password_hash": "dc4bda92ebc683bb349ea136064213e8d8044ccd6e9ecbab62325edf79ccadfda34e6eba1b09655dc75e240c84b572b704437e29e1ba9670552ca2234fac4ced",
+      "color": "#22c55e",
+      "created_at": "2026-07-30T14:30:14.338Z"
+    },
+    {
+      "id": "usr-1785423478282-t8f57",
+      "username": "ShilohFaith",
+      "email": "ashilohfaith@gmail.com",
+      "password_hash": "dc4bda92ebc683bb349ea136064213e8d8044ccd6e9ecbab62325edf79ccadfda34e6eba1b09655dc75e240c84b572b704437e29e1ba9670552ca2234fac4ced",
+      "color": "#f97316",
+      "created_at": "2026-07-30T14:57:58.295Z"
+    },
+    {
+      "id": "usr-1785424060984-i4f02",
+      "username": "ShilohFaithA",
+      "email": "shilohfaitha@gmail.com",
+      "password_hash": "dc4bda92ebc683bb349ea136064213e8d8044ccd6e9ecbab62325edf79ccadfda34e6eba1b09655dc75e240c84b572b704437e29e1ba9670552ca2234fac4ced",
+      "color": "#f97316",
+      "created_at": "2026-07-30T15:07:40.998Z"
+    },
+    {
+      "id": "usr-1785424476602-y9769",
+      "username": "shiloh1",
+      "email": "shiloh@gmail.com",
+      "password_hash": "dc4bda92ebc683bb349ea136064213e8d8044ccd6e9ecbab62325edf79ccadfda34e6eba1b09655dc75e240c84b572b704437e29e1ba9670552ca2234fac4ced",
+      "color": "#14b8a6",
+      "created_at": "2026-07-30T15:14:36.616Z"
+    },
+    {
+      "id": "usr-1785424832363-foa1j",
+      "username": "shiloh_faith",
+      "email": "faith@gmail.com",
+      "password_hash": "dc4bda92ebc683bb349ea136064213e8d8044ccd6e9ecbab62325edf79ccadfda34e6eba1b09655dc75e240c84b572b704437e29e1ba9670552ca2234fac4ced",
+      "color": "#ec4899",
+      "created_at": "2026-07-30T15:20:32.372Z"
+    },
+    {
+      "id": "usr-1785425139594-08lkj",
+      "username": "swetha_r",
+      "email": "swetha_r@gmail.com",
+      "password_hash": "dc4bda92ebc683bb349ea136064213e8d8044ccd6e9ecbab62325edf79ccadfda34e6eba1b09655dc75e240c84b572b704437e29e1ba9670552ca2234fac4ced",
+      "color": "#a855f7",
+      "created_at": "2026-07-30T15:25:39.606Z"
+    },
+    {
+      "id": "usr-1785425317011-p4it8",
+      "username": "swetha_rajesh",
+      "email": "swetharajesh@gmail.com",
+      "password_hash": "dc4bda92ebc683bb349ea136064213e8d8044ccd6e9ecbab62325edf79ccadfda34e6eba1b09655dc75e240c84b572b704437e29e1ba9670552ca2234fac4ced",
+      "color": "#a855f7",
+      "created_at": "2026-07-30T15:28:37.019Z"
+    },
+    {
+      "id": "usr-1787468285288-x9fpy",
+      "username": "12ShilohFaith",
+      "email": "12shilohfaith@gmail.com",
+      "password_hash": "dc4bda92ebc683bb349ea136064213e8d8044ccd6e9ecbab62325edf79ccadfda34e6eba1b09655dc75e240c84b572b704437e29e1ba9670552ca2234fac4ced",
+      "color": "#3b82f6",
+      "created_at": "2026-08-23T06:58:05.300Z"
+    },
+    {
+      "id": "usr-1787547661023-v9vgj",
+      "username": "james",
+      "email": "james@gmail.com",
+      "password_hash": "dc4bda92ebc683bb349ea136064213e8d8044ccd6e9ecbab62325edf79ccadfda34e6eba1b09655dc75e240c84b572b704437e29e1ba9670552ca2234fac4ced",
+      "color": "#14b8a6",
+      "created_at": "2026-08-24T05:01:01.036Z"
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj-1785337667290-4v6av",
+      "name": "AI Companion",
+      "description": "",
+      "owner_id": "usr-1785328596142-xurs0",
+      "join_code": "385942",
+      "created_at": "2026-07-29T15:07:47.290Z",
+      "updated_at": "2026-07-29T15:07:47.290Z"
+    },
+    {
+      "id": "proj-1785421288990-k4f4w",
+      "name": "Games",
+      "description": "",
+      "owner_id": "usr-1785417897968-nzdgp",
+      "join_code": "578363",
+      "created_at": "2026-07-30T14:21:28.991Z",
+      "updated_at": "2026-07-30T14:21:28.991Z"
+    },
+    {
+      "id": "proj-1785423637194-7ylzg",
+      "name": "Games",
+      "description": "",
+      "owner_id": "usr-1785423478282-t8f57",
+      "join_code": "931424",
+      "created_at": "2026-07-30T15:00:37.194Z",
+      "updated_at": "2026-07-30T15:00:37.194Z"
+    },
+    {
+      "id": "proj-1785423930118-8ldr7",
+      "name": "Games",
+      "description": "",
+      "owner_id": "usr-1785423478282-t8f57",
+      "join_code": "770357",
+      "created_at": "2026-07-30T15:05:30.118Z",
+      "updated_at": "2026-07-30T15:05:30.118Z"
+    },
+    {
+      "id": "proj-1785424116759-iavzm",
+      "name": "Games",
+      "description": "",
+      "owner_id": "usr-1785424060984-i4f02",
+      "join_code": "890229",
+      "created_at": "2026-07-30T15:08:36.764Z",
+      "updated_at": "2026-07-30T15:08:36.764Z"
+    },
+    {
+      "id": "proj-1785424593394-6p09d",
+      "name": "Games",
+      "description": "",
+      "owner_id": "usr-1785424476602-y9769",
+      "join_code": "960252",
+      "created_at": "2026-07-30T15:16:33.394Z",
+      "updated_at": "2026-07-30T15:16:33.394Z"
+    },
+    {
+      "id": "proj-1785424948410-eaku5",
+      "name": "Games",
+      "description": "",
+      "owner_id": "usr-1785424832363-foa1j",
+      "join_code": "839403",
+      "created_at": "2026-07-30T15:22:28.410Z",
+      "updated_at": "2026-07-30T15:22:28.410Z"
+    },
+    {
+      "id": "proj-1787547681339-jmqi8",
+      "name": "adventure games",
+      "description": "",
+      "owner_id": "usr-1787468285288-x9fpy",
+      "join_code": "892055",
+      "created_at": "2026-08-24T05:01:21.339Z",
+      "updated_at": "2026-08-24T05:01:21.339Z"
+    },
+    {
+      "id": "proj-1787547690364-7has3",
+      "name": "892055",
+      "description": "",
+      "owner_id": "usr-1787547661023-v9vgj",
+      "join_code": "986183",
+      "created_at": "2026-08-24T05:01:30.364Z",
+      "updated_at": "2026-08-24T05:01:30.364Z"
+    }
+  ],
+  "projectMembers": [
+    {
+      "id": "pm-1785337667290-c8slc",
+      "project_id": "proj-1785337667290-4v6av",
+      "user_id": "usr-1785328596142-xurs0",
+      "joined_at": "2026-07-29T15:07:47.290Z"
+    },
+    {
+      "id": "pm-1785337761975-e687p",
+      "project_id": "proj-1785337667290-4v6av",
+      "user_id": "usr-1785337736328-s9fx0",
+      "joined_at": "2026-07-29T15:09:21.975Z"
+    },
+    {
+      "id": "pm-1785421288991-ew445",
+      "project_id": "proj-1785421288990-k4f4w",
+      "user_id": "usr-1785417897968-nzdgp",
+      "joined_at": "2026-07-30T14:21:28.991Z"
+    },
+    {
+      "id": "pm-1785421599912-mwk4n",
+      "project_id": "proj-1785421288990-k4f4w",
+      "user_id": "usr-1785414422663-ddh7x",
+      "joined_at": "2026-07-30T14:26:39.912Z"
+    },
+    {
+      "id": "pm-1785421885796-uljn9",
+      "project_id": "proj-1785421288990-k4f4w",
+      "user_id": "usr-1785421814334-zw9i8",
+      "joined_at": "2026-07-30T14:31:25.796Z"
+    },
+    {
+      "id": "pm-1785423637194-l6sxv",
+      "project_id": "proj-1785423637194-7ylzg",
+      "user_id": "usr-1785423478282-t8f57",
+      "joined_at": "2026-07-30T15:00:37.194Z"
+    },
+    {
+      "id": "pm-1785423930118-yt08n",
+      "project_id": "proj-1785423930118-8ldr7",
+      "user_id": "usr-1785423478282-t8f57",
+      "joined_at": "2026-07-30T15:05:30.118Z"
+    },
+    {
+      "id": "pm-1785424116764-mp1z9",
+      "project_id": "proj-1785424116759-iavzm",
+      "user_id": "usr-1785424060984-i4f02",
+      "joined_at": "2026-07-30T15:08:36.764Z"
+    },
+    {
+      "id": "pm-1785424593394-i7fz5",
+      "project_id": "proj-1785424593394-6p09d",
+      "user_id": "usr-1785424476602-y9769",
+      "joined_at": "2026-07-30T15:16:33.394Z"
+    },
+    {
+      "id": "pm-1785424948410-gic8w",
+      "project_id": "proj-1785424948410-eaku5",
+      "user_id": "usr-1785424832363-foa1j",
+      "joined_at": "2026-07-30T15:22:28.410Z"
+    },
+    {
+      "id": "pm-1785425238914-cw0h1",
+      "project_id": "proj-1785424948410-eaku5",
+      "user_id": "usr-1785425139594-08lkj",
+      "joined_at": "2026-07-30T15:27:18.914Z"
+    },
+    {
+      "id": "pm-1785425374382-3clra",
+      "project_id": "proj-1785424948410-eaku5",
+      "user_id": "usr-1785425317011-p4it8",
+      "joined_at": "2026-07-30T15:29:34.382Z"
+    },
+    {
+      "id": "pm-1787547681339-sc1oc",
+      "project_id": "proj-1787547681339-jmqi8",
+      "user_id": "usr-1787468285288-x9fpy",
+      "joined_at": "2026-08-24T05:01:21.339Z"
+    },
+    {
+      "id": "pm-1787547690364-mzxmh",
+      "project_id": "proj-1787547690364-7has3",
+      "user_id": "usr-1787547661023-v9vgj",
+      "joined_at": "2026-08-24T05:01:30.364Z"
+    }
+  ],
+  "branches": [
+    {
+      "id": "br-1785337667292-f5gal",
+      "project_id": "proj-1785337667290-4v6av",
+      "name": "main",
+      "is_default": true,
+      "created_by": "usr-1785328596142-xurs0",
+      "created_at": "2026-07-29T15:07:47.292Z"
+    },
+    {
+      "id": "br-1785421288996-4ompn",
+      "project_id": "proj-1785421288990-k4f4w",
+      "name": "main",
+      "is_default": true,
+      "created_by": "usr-1785417897968-nzdgp",
+      "created_at": "2026-07-30T14:21:28.996Z"
+    },
+    {
+      "id": "br-1785423637196-hx1ta",
+      "project_id": "proj-1785423637194-7ylzg",
+      "name": "main",
+      "is_default": true,
+      "created_by": "usr-1785423478282-t8f57",
+      "created_at": "2026-07-30T15:00:37.196Z"
+    },
+    {
+      "id": "br-1785423930119-fphw1",
+      "project_id": "proj-1785423930118-8ldr7",
+      "name": "main",
+      "is_default": true,
+      "created_by": "usr-1785423478282-t8f57",
+      "created_at": "2026-07-30T15:05:30.119Z"
+    },
+    {
+      "id": "br-1785424116767-vvp2y",
+      "project_id": "proj-1785424116759-iavzm",
+      "name": "main",
+      "is_default": true,
+      "created_by": "usr-1785424060984-i4f02",
+      "created_at": "2026-07-30T15:08:36.767Z"
+    },
+    {
+      "id": "br-1785424241040-6gwwq",
+      "project_id": "proj-1785424116759-iavzm",
+      "name": "feature",
+      "is_default": false,
+      "created_by": "usr-1785424060984-i4f02",
+      "created_at": "2026-07-30T15:10:41.040Z"
+    },
+    {
+      "id": "br-1785424593396-9y423",
+      "project_id": "proj-1785424593394-6p09d",
+      "name": "main",
+      "is_default": true,
+      "created_by": "usr-1785424476602-y9769",
+      "created_at": "2026-07-30T15:16:33.396Z"
+    },
+    {
+      "id": "br-1785424728777-pmrdb",
+      "project_id": "proj-1785424593394-6p09d",
+      "name": "feature",
+      "is_default": false,
+      "created_by": "usr-1785424476602-y9769",
+      "created_at": "2026-07-30T15:18:48.777Z"
+    },
+    {
+      "id": "br-1785424948412-ktqnk",
+      "project_id": "proj-1785424948410-eaku5",
+      "name": "main",
+      "is_default": true,
+      "created_by": "usr-1785424832363-foa1j",
+      "created_at": "2026-07-30T15:22:28.412Z"
+    },
+    {
+      "id": "br-1785425015397-9i0gg",
+      "project_id": "proj-1785424948410-eaku5",
+      "name": "feature",
+      "is_default": false,
+      "created_by": "usr-1785424832363-foa1j",
+      "created_at": "2026-07-30T15:23:35.397Z"
+    },
+    {
+      "id": "br-1787547681343-p8exz",
+      "project_id": "proj-1787547681339-jmqi8",
+      "name": "main",
+      "is_default": true,
+      "created_by": "usr-1787468285288-x9fpy",
+      "created_at": "2026-08-24T05:01:21.343Z"
+    },
+    {
+      "id": "br-1787547690367-6t68n",
+      "project_id": "proj-1787547690364-7has3",
+      "name": "main",
+      "is_default": true,
+      "created_by": "usr-1787547661023-v9vgj",
+      "created_at": "2026-08-24T05:01:30.367Z"
+    }
+  ]
+}

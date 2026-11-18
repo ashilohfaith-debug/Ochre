@@ -1,0 +1,73 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --bg-matte: #141414;
+    --accent-ochre: #C7722D;
+  }
+
+  body {
+    background-color: #101010;
+    color: #cccccc;
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  }
+}
+
+/* Scrollbar styles for modern IDE look */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #141414;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #2a2a2a;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #3a3a3a;
+}
+
+/* Notification slide-in animation */
+@keyframes slideInRight {
+  from { transform: translateX(20px); opacity: 0; }
+  to   { transform: translateX(0);    opacity: 1; }
+}
+
+/* Yjs y-monaco live remote cursor badges & selection highlights */
+.yRemoteSelection {
+  background-color: rgba(59, 130, 246, 0.35);
+  position: absolute;
+}
+
+.yRemoteSelectionHead {
+  position: absolute;
+  border-left: 2px solid #3b82f6;
+  border-top: 2px solid #3b82f6;
+  height: 100%;
+  box-sizing: border-box;
+}
+
+/* User name tag bubble floating above cursor */
+.yRemoteSelectionHead::after {
+  position: absolute;
+  top: -1.4em;
+  left: -2px;
+  background: inherit;
+  color: #ffffff;
+  font-family: 'Inter', system-ui, sans-serif;
+  font-size: 10px;
+  font-weight: 600;
+  padding: 1px 4px;
+  border-radius: 3px 3px 3px 0;
+  white-space: nowrap;
+  pointer-events: none;
+  z-index: 100;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.4);
+}
