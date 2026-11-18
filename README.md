@@ -91,6 +91,31 @@ Real-time sync is powered by **Yjs**, a CRDT (Conflict-free Replicated Data Type
 
 <br/>
 
+## Prototype: Noir (Legacy)
+
+The initial prototype, **Noir**, is a lightweight browser-based code editor built on Monaco Editor. It lives at `index.html` / `script.js` / `styles.css` in the root and can be opened directly in a browser with no build step.
+
+### Running Noir
+
+Just open `index.html` in a browser. If your browser blocks local file access for scripts, serve it instead:
+
+```bash
+python3 -m http.server 8080
+# then visit http://localhost:8080
+```
+
+### Noir Feature Map
+
+| Area | Details |
+|---|---|
+| Editing | Syntax highlighting for 60+ languages, minimap, code folding, bracket matching & auto-closing, auto-indent, multi-cursor (`Alt`+click, `Ctrl/Cmd+D`), smooth scrolling & cursor animation |
+| Find & commands | `Ctrl/Cmd+F` find, `Ctrl/Cmd+H` replace, `F1` or the palette icon opens the Command Palette |
+| Zoom & type | `Ctrl/Cmd` + mouse wheel to zoom, toolbar font-size stepper, font family switcher (JetBrains Mono / Fira Code / Consolas) |
+| Files | New, Open (file picker or drag-and-drop anywhere on the window), Save (downloads the buffer), autosave to `localStorage` every 400ms, session restored automatically on reload |
+| Status bar | Language (also a `<select>` in the toolbar), line/column, indent size (click to cycle 2/4/8 and spaces/tabs), encoding, line-ending |
+
+<br/>
+
 ## To be implemented
 - AI Agent
 
