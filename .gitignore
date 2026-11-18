@@ -16,8 +16,7 @@ build/
 .env.*.local
 
 # Editor directories
-.vscode/*
-!.vscode/settings.json
+.vscode/
 .idea/
 
 # OS files
